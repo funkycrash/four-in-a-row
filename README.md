@@ -2,8 +2,11 @@
 
 ## How to run the game
 
-`npm install http-server`
-`http-server`
+
+```
+npm install http-server
+http-server
+```
 
 The game will start on your `http://localhost:8080`
 
